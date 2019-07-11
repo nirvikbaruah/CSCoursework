@@ -1,0 +1,6 @@
+framework module Pods_CS_CourseworkTests {
+  umbrella header "Pods-CS CourseworkTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
